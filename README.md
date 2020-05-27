@@ -3,6 +3,14 @@ Wiki creada para el Curso de Propabilidad y Estadística
 
 *Equipo 10*
 
+[Caso1](./caso1.md).
+
+[Caso2](./caso1.md).
+
+[Caso3](./caso1.md).
+
+[Caso4](./caso1.md).
+
 ## Análisis de los casos de  estudio suministrados.
 
 ## Estudio de otros casos (con juegos de datos reales):
