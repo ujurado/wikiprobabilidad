@@ -14,9 +14,9 @@
 
   - [Distribución dela altura de individuos](./casos/caso2.md)
 
-  - [Distribución delongitudes de homeruns](./casos/caso3.md)
+  - [Distribución de longitudes de home runs](./casos/caso3.md)
 
-  - [Demanda de empleosegún habilidades](./casos/caso4.md)
+  - [Demanda de empleo según habilidades](./casos/caso4.md)
 
 ## Conclusiones
 
