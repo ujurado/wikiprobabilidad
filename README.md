@@ -1,4 +1,4 @@
-![UAM-C](/img/logouamcuajimalpa.png)
+![UAM-C](/assets/images/logouamcuajimalpa.png)
 
 # Wiki de Medidas de Tendencia Central y Dispersión
 
@@ -10,13 +10,13 @@
 
 ## Casos de Estudio
 
-  - [Distribución de la riqueza](./casos/caso1.md)
+  - [Distribución de la riqueza](./caso1.md)
 
-  - [Distribución de la altura de individuos](./casos/caso2.md)
+  - [Distribución de la altura de individuos](./caso2.md)
 
-  - [Distribución de longitudes de home runs](./casos/caso3.md)
+  - [Distribución de longitudes de home runs](./caso3.md)
 
-  - [Demanda de empleo según habilidades](./casos/caso4.md)
+  - [Demanda de empleo según habilidades](./caso4.md)
 
 ## Conclusiones
 
