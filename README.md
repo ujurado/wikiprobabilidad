@@ -1,7 +1,7 @@
-# wikiprobabilidad
-Wiki creada para el Curso de Propabilidad y Estadística
+![UAM-C](/img/logouamcuajimalpa.png)
 
-![UAM-C(/img/logouamcuajimalpa.png)
+# wikiprobabilidad
+Wiki creada para el Curso de Propabilidad y Estadística :mortar_board:
 
 *Equipo 10*
 
