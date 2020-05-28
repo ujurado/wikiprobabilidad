@@ -1,8 +1,6 @@
 # Wiki de Medidas de Tendencia Central y Dispersión
 
-![UAM-C](/assets/images/logouamcuajimalpa.png)
-
-**Wiki creada para el Curso de Probabilidad y Estadística** :mortar_board:
+**Wiki creada para el Curso de Probabilidad y Estadística**
 
 *Equipo 10*
 
