@@ -1,6 +1,8 @@
 # wikiprobabilidad
 Wiki creada para el Curso de Propabilidad y Estadística
 
+![UAM-C(/img/logouamcuajimalpa.png)
+
 *Equipo 10*
 
 [Caso1](./caso1.md).
