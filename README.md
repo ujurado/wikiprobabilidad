@@ -12,7 +12,7 @@
 
   - [Distribución de la riqueza](./casos/caso1.md)
 
-  - [Distribución dela altura de individuos](./casos/caso2.md)
+  - [Distribución de la altura de individuos](./casos/caso2.md)
 
   - [Distribución de longitudes de home runs](./casos/caso3.md)
 
