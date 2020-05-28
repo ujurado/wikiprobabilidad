@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 theme: jekyll-theme-slate
 logo: assets/images/logouamcuajimalpa.png
 title: Wiki Probabilidad y Estadística
 description: Wiki de Medidas de Tendencia Central y Dispersión
+=======
+theme: jekyll-theme-minimal
+>>>>>>> cd80c86ebb564434cb823295a104ea13ecc3d785
