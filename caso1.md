@@ -5,9 +5,13 @@ Los  datos  que  se  muestran  en  la  Figura 1 son  resultados  de  la  Encuest
 
 ![Figura 1](/assets/images/figura1.png "Figura 1")
 
+<img src="https://ujurado.github.io/wikiprobabilidad/assets/images/figura1.png" alt="Figura 1">
+
 Además del índice Gini, otra medida resumen que reporta  el informe es que la  media del ingreso de los hogares en México fue de 46 521pesos trimestrales. Sin embargo, puede verse que este ingreso promedio de la distribución está por encima del ingreso promedio del 7mo decil, lo que significa que al 70% de los hogares reciben un ingreso promedio inferior a la media de la distribución del ingreso en el país.
 
 ![Figura 2](/assets/images/figura2.png "Figura 2")
+
+<img src="https://ujurado.github.io/wikiprobabilidad/assets/images/figura2.png" alt="Figura 2">
 
 La  Figura 2  muestra  el  histograma  de  la  distribución  del  ingreso  correspondiente  a  los mismos  datos  (y  curva  de Lorenz) que  se  dieron en  la  Figura 2.La  etiqueta  de  las  barras  muestra el por ciento (no acumulado) del ingreso total que percibe cada decil (segmento del 10%) de la población.
 
