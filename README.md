@@ -2,26 +2,34 @@
 
 # Wiki de Medidas de Tendencia Central y Dispersión
 
-**Wiki creada para el Curso de Probabilidad y Estadística :mortar_board:**
+**Wiki creada para el Curso de Probabilidad y Estadística** :mortar_board:
 
 *Equipo 10*
 
-[Caso1](./casos/caso1.md)
-
-[Caso2](./casos/caso2.md)
-
-[Caso3](./casos/caso3.md)
-
-[Caso4](./casos/caso4.md)
-
 ## Uso adecuado de las medidas de tendencia central y dispersión
+
+- Casos de Estudio
+
+  - [Distribución de la riqueza](./casos/caso1.md)
+
+  - [Distribución dela altura de individuos](./casos/caso2.md)
+
+  - [Distribución delongitudes de homeruns](./casos/caso3.md)
+
+  - [Demanda de empleosegún habilidades](./casos/caso4.md)
 
 ## Conclusiones
 
 ### Referencias
 
+* Lauren Damme, “Losing Middle America: The polarization of jobs in the United States”, Next Social Contract Initiative, September 2011.
+* Mario F. Triola, “Estadística, 10maEd”, Pearson Educación de México, México, 2009.
+* Juan José Li Ng, Carlos Serrano, “Ingreso en México y evolución de la pobreza: Apuntes sobre la nueva ENIGH 2016”, BBVA Research, 4 septiembre 2017.
+* Kendall and Stuart, “The Advanced Theory of Statistics, Vol.1”, Griffin,1977.
+
 #### Auto-evaluación y % de contribución de cada miembro del equipo
-Ana Belen %
-Jacqueline %
-Daniel %
-Uriel %
+
+* Ana Belen %
+* Jacqueline %
+* Daniel %
+* Uriel %
