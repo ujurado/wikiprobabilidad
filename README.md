@@ -6,6 +6,10 @@
 
 ## Uso adecuado de las medidas de tendencia central y dispersión
 
+Las medidas de tendencia ...
+
+A continuación se listan algunos casos de estudio que ...
+
 ## Casos de Estudio
 
   - [Distribución de la riqueza](./caso1.md)
@@ -17,6 +21,8 @@
   - [Demanda de empleo según habilidades](./caso4.md)
 
 ## Conclusiones
+
+Se puede concluir que ...
 
 ### Referencias
 
