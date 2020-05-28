@@ -8,7 +8,7 @@
 
 ## Uso adecuado de las medidas de tendencia central y dispersión
 
-- Casos de Estudio
+## Casos de Estudio
 
   - [Distribución de la riqueza](./casos/caso1.md)
 
