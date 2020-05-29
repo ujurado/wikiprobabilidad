@@ -5,7 +5,7 @@ Los  datos  que  se  muestran  en  la  Figura 1 son  resultados  de  la  Encuest
 
 <img src="https://ujurado.github.io/wikiprobabilidad/assets/images/figura1.png" alt="Figura 1">
 
-Además del índice Gini, otra medida resumen que reporta  el informe es que la  media del ingreso de los hogares en México fue de 46 521pesos trimestrales. Sin embargo, puede verse que este ingreso promedio de la distribución está por encima del ingreso promedio del 7mo decil, lo que significa que al 70% de los hogares reciben un ingreso promedio inferior a la media de la distribución del ingreso en el país.
+Además del índice Gini, otra medida resumen que reporta  el informe es que la  media del ingreso de los hogares en México fue de 46 521 pesos trimestrales. Sin embargo, puede verse que este ingreso promedio de la distribución está por encima del ingreso promedio del 7mo decil, lo que significa que al 70% de los hogares reciben un ingreso promedio inferior a la media de la distribución del ingreso en el país.
 
 <img src="https://ujurado.github.io/wikiprobabilidad/assets/images/figura2.png" alt="Figura 2">
 
@@ -13,9 +13,12 @@ La  Figura 2  muestra  el  histograma  de  la  distribución  del  ingreso  corr
 
 ## Análisis de los casos de  estudio suministrados.
 
+En este caso se puede apreciar el sesgo negativo en relación al promedio de 46 521 pesos trimestrales dados que
+
 ## Estudio de otros casos (con juegos de datos reales):
 
-    Forma acampanada simétrica
-    Forma de montículo asimétrica
-    Forma de J (o J invertida)
-    Forma e U ("U-Shaped")
+Se realizó un analisis de la información proporcionada por el Gobierno de la Ciudad de México respecto a la movilidad presentada durante los meses de Marzo y Mayo que hemos estado en cuarentena.
+
+Para fines de este estudio de puede apreciar en la Figura 3 que el Sistema de Transporte Colectivo Metro sigue siendo el principal medio de transporte utilizado en la capital.
+
+<img src="https://ujurado.github.io/wikiprobabilidad/assets/images/histo1.png" alt="Figura 3">
