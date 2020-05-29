@@ -38,7 +38,7 @@ Así pues, debemos de estar conscientes que, para la graficacion de los resultad
 
 #### Auto-evaluación y % de contribución de cada miembro del equipo
 
-* Ana Belen %
-* Daniel %
-* Jacqueline %
+* Ana Belen ? %
+* Daniel ? %
+* Jacqueline ? %
 * Uriel Jurado 25 %
