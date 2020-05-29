@@ -6,6 +6,8 @@ Datos del caso2
 
 Existen ideas falsas sobre el concepto de MTBF (Mean Time Between Failures). Se tiene el concepto que representa el número esperado en horas de operación antes que el equipo presente una falla, ó ‘el tiempo de vida’ (en servicio).  Es común encontrar este tipo de interpretaciones, sin embargo, un sistema o equipo no podría estar en operación continua durante 100 o más años sin presentar una falla.  La razón que los valores de MTFB sean muy grandes (en años) se debe a que están basados en una estimación, índice (rate) de fallas  mientras se encuentra en el periodo de vida útil o en operación del producto, y se asume que podría seguir este ritmo de fallas constante de manera indefinida (es la etapa de vida del producto cuando su índice de fallas es más baja).  Durante la etapa de envejecimiento (desgaste) del producto, sus fallas son mucho más frecuentes que lo que representa el valor MTBF (ver la gráfica llamada ‘curva de la bañera’).  Es decir, no hay una relación directa entre la vida en servicio del equipo y el valor de MTBF.  Es posible encontrar un producto con un alto valor de MTBF pero con un bajo valor estimado en su vida útil de servicio.
 
+<img src="https://github.com/ujurado/wikiprobabilidad/blob/master/assets/images/Grafica1.png" alt="Figura 1">
+
 Veamos un ejemplo con los humanos:
 
 –      Tomando una muestra de la población de 25 años: 500,000 personas
