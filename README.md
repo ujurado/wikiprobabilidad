@@ -20,6 +20,8 @@ A continuación se listan algunos casos de estudio que ...
 
   - [Demanda de empleo según habilidades](./caso4.md)
 
+  - [Movilidad en la CDMX de Marzo a Mayo 2020](./caso5.md)
+
 ## Conclusiones
 
 Se puede concluir que ...
