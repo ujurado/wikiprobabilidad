@@ -1,4 +1,4 @@
-Datos del caso4
+Caso de Estudio
 
 Demanda de empleos según habilidades
 
@@ -25,7 +25,7 @@ nuevos empleos, pudiera decirse que, los nuevos empleos, en promedio, demandan u
 nivel medio de habilidades (por ejemplo, en promedio se requiere un nivel de escolaridad 
 pasando el bachillerato). 
 
-## Análisis de los casos de  estudio suministrados.
+## Análisis
 
 ¿Daría esto una idea adecuada de la distribución?
 Para este estudio de caso, el echo de que los nuevos empleos requieran que los trabajadores tengan un nivel medio de habilidades,
