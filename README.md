@@ -6,9 +6,9 @@
 
 ## Uso adecuado de las medidas de tendencia central y dispersión
 
-Las medidas de tendencia ...
+Las medidas de tendencia se pueden llegar a utilizar de muchas formas, algunas de ellas ...
 
-A continuación se listan algunos casos de estudio que ...
+A continuación se listan algunos casos de estudio en los que se puede apreciar el uso en diferentes situaciones las mediddas de tendencia central y dispersión mencionadas anteriormente:
 
 ## Casos de Estudio
 
@@ -24,7 +24,11 @@ A continuación se listan algunos casos de estudio que ...
 
 ## Conclusiones
 
-Se puede concluir que ...
+Se puede concluir que las diversas medidas de obtención de información estadística son herramientas básicas y a la vez esenciales para el entendimiento pleno de un análisis de información a pequeña y a gran escala, esto ya que nos brindan información del conjunto de datos y que obtenerlos de por alguna otra forma resultaría muy complejo además de poco efectivo.
+
+Sin embargo, es importante tener en cuenta la estructura del conjunto de datos a analizar debido a que por su propia naturaleza, resultaría imposible utilizar siempre todas las medidas de tendencia y dispersión en cualesquiera que fuera la naturaleza de nuestros datos, ya que esto conllevaría a una mal interpretación de los resultados que por si solos son arrojados a través del calculo de estas.
+
+Así pues, debemos de estar conscientes que, para la graficacion de los resultados y el comportamiento del conjunto de datos analizado se debe de elegir una representación que permita dentro de lo posible hacer una referencia a las medidas más importantes de acuerdo a lo deseable a observar tras el analisis, ya que si bien es cierto que se puede observar una correlación entre los resultados de cada una de las medidas de tedencia y dispersión, observar el panorama general del comportamiento de estos datos, brinda en la mayoría de los casos una perspectiva más amplia de la composición de los mismos.
 
 ### Referencias
 
