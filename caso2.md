@@ -6,7 +6,7 @@ Datos del caso2
 
 Existen ideas falsas sobre el concepto de MTBF (Mean Time Between Failures). Se tiene el concepto que representa el número esperado en horas de operación antes que el equipo presente una falla, ó ‘el tiempo de vida’ (en servicio).  Es común encontrar este tipo de interpretaciones, sin embargo, un sistema o equipo no podría estar en operación continua durante 100 o más años sin presentar una falla.  La razón que los valores de MTFB sean muy grandes (en años) se debe a que están basados en una estimación, índice (rate) de fallas  mientras se encuentra en el periodo de vida útil o en operación del producto, y se asume que podría seguir este ritmo de fallas constante de manera indefinida (es la etapa de vida del producto cuando su índice de fallas es más baja).  Durante la etapa de envejecimiento (desgaste) del producto, sus fallas son mucho más frecuentes que lo que representa el valor MTBF (ver la gráfica llamada ‘curva de la bañera’).  Es decir, no hay una relación directa entre la vida en servicio del equipo y el valor de MTBF.  Es posible encontrar un producto con un alto valor de MTBF pero con un bajo valor estimado en su vida útil de servicio.
 
-<img src="https://github.com/ujurado/wikiprobabilidad/blob/master/assets/images/Grafica1.png" alt="Figura 1">
+<img src="https://ujurado.github.io/wikiprobabilidad/assets/images/grafica1.png" alt="Figura 1">
 
 Veamos un ejemplo con los humanos:
 
@@ -35,4 +35,3 @@ Si el valor de MTBF de 80 años es más exacto porque refleja la vida del produc
 Aún si lo anterior fuera posible, la tecnología está cambiando constantemente y cuando estos números estén disponibles, ya no podrían ser útiles.  ¿A quién le podrían interesar los valores de MTBF de productos que han quedado obsoletos por actualizaciones debido al avance de la tecnología?
 
 La manera objetiva de ver el MTBF es la siguiente: supongamos que un producto tiene un MTBF de 800 años, la interpretación es que de una muestra de 800 productos,  1 podría fallar al año.  Pero, nuevamente insistimos, esta es una probabilidad y dependerá de diversos factores: de las condiciones de operación (el 70% de los productos electrónicos falla por una mala calidad de la energía); de las condiciones ambientales (polvo, corrosión, erosión, altas temperaturas, etc.); y, aún antes de poner en servicio un producto, ¿quién se aseguró que le producto estuvo almacenado en condiciones óptimas y no sufrió envejecimiento debido a las condiciones de humedad y temperatura en las que estuvo expuesto?.
-

@@ -11,19 +11,19 @@ habilidades medias son aquellas que requieren un nivel educacional superior al b
 licenciatura. Por último, las habilidades altas son las que demandan un nivel de licenciatura
 o superior (por ejemplo, maestría).
 
-<img src="https://ujurado.github.io/wikiprobabilidad/assets/images/grafica.JPG" alt="grafica">
+<img src="https://ujurado.github.io/wikiprobabilidad/assets/images/grafica.jpg" alt="grafica">
 
 
 La forma de este histograma pone de manifiesto un fenómeno típico que se presenta en la
 actualidad en la gran mayoría de los países desarrollados (Estados Unidos y Europa)
 denominado polarización del empleo (“Job Polarization”) que, entre otras, tiene como
 consecuencia el estancamiento económico de las clases medias y su reducción numérica
-(esto último, en virtud de que los empleos de habilidades bajas no son bien remunerados). 
+(esto último, en virtud de que los empleos de habilidades bajas no son bien remunerados).
 
 Obsérvese que, si se intentase obtener una media del nivel habilidades demandado por los
 nuevos empleos, pudiera decirse que, los nuevos empleos, en promedio, demandan un
-nivel medio de habilidades (por ejemplo, en promedio se requiere un nivel de escolaridad 
-pasando el bachillerato). 
+nivel medio de habilidades (por ejemplo, en promedio se requiere un nivel de escolaridad
+pasando el bachillerato).
 
 ## Análisis
 
@@ -36,5 +36,4 @@ mediante otros trabajos.
 ¿Qué tipo de medida de tendencia central sería más adecuada y por qué?
 
 La MEDIA sería la medida ideal, ya que, se necesita saber el numero total de trabajadores que tienen un nivel medio de experiencia
-y de todos ellos ver cuales tienen mas experiencia y cuales tienen menos. 
-
+y de todos ellos ver cuales tienen mas experiencia y cuales tienen menos.
