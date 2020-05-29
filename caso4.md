@@ -11,7 +11,7 @@ habilidades medias son aquellas que requieren un nivel educacional superior al b
 licenciatura. Por último, las habilidades altas son las que demandan un nivel de licenciatura
 o superior (por ejemplo, maestría).
 
-<img src= "https://ujurado.github.io/wikiprobabilidad/assets/images/grafica.jpg" alt="grafica">
+<img src= "https://ujurado.github.io/wikiprobabilidad/assets/images/grafica.JPG" alt="grafica">
 
 
 La forma de este histograma pone de manifiesto un fenómeno típico que se presenta en la
