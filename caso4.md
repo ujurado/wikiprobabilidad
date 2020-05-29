@@ -28,10 +28,13 @@ pasando el bachillerato).
 ## Análisis
 
 ¿Daría esto una idea adecuada de la distribución?
+
 Para este estudio de caso, el echo de que los nuevos empleos requieran que los trabajadores tengan un nivel medio de habilidades,
 si se podria decir que es una buena idea de distribución, ya que los trabajadores tendrían que prepararse mas, obtener mas experiencias
 mediante otros trabajos.
+
 ¿Qué tipo de medida de tendencia central sería más adecuada y por qué?
+
 La MEDIA sería la medida ideal, ya que, se necesita saber el numero total de trabajadores que tienen un nivel medio de experiencia
 y de todos ellos ver cuales tienen mas experiencia y cuales tienen menos. 
 
