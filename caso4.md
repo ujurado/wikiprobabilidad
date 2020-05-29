@@ -38,7 +38,3 @@ mediante otros trabajos.
 La MEDIA sería la medida ideal, ya que, se necesita saber el numero total de trabajadores que tienen un nivel medio de experiencia
 y de todos ellos ver cuales tienen mas experiencia y cuales tienen menos. 
 
-
-
-
-## Estudio de otros casos (con juegos de datos reales):
