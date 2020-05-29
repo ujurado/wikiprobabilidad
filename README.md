@@ -59,7 +59,7 @@ Así pues, debemos de estar conscientes que, para la graficacion de los resultad
 
 *https://www.medwave.cl/link.cgi/Medwave/Series/MBE04/4934
 
-*https://es.wikipedia.org/wiki/Sesgo_estad%C3%ADstico
+*https://es.wikipedia.org/wiki/Sesgo_estad%C3%ADstico 
 
 *https://es.wikipedia.org/wiki/Asimetr%C3%ADa_estad%C3%ADstica
 
