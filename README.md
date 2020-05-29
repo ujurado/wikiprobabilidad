@@ -1,14 +1,12 @@
 # Wiki de Medidas de Tendencia Central y Dispersión
 
-**Wiki creada para el Curso de Probabilidad y Estadística**
-
 *Equipo 10*
 
 ## Uso adecuado de las medidas de tendencia central y dispersión
 
 Las medidas de tendencia se pueden llegar a utilizar de muchas formas, algunas de ellas ...
 
-A continuación se listan algunos casos de estudio en los que se puede apreciar el uso en diferentes situaciones las mediddas de tendencia central y dispersión mencionadas anteriormente:
+***A continuación se listan algunos casos de estudio en los que se puede apreciar el uso en diferentes situaciones las medidas de tendencia central y dispersión mencionadas anteriormente:***
 
 ## Casos de Estudio
 
@@ -42,6 +40,6 @@ Así pues, debemos de estar conscientes que, para la graficacion de los resultad
 #### Auto-evaluación y % de contribución de cada miembro del equipo
 
 * Ana Belen %
-* Jacqueline %
 * Daniel %
-* Uriel %
+* Jacqueline %
+* Uriel Jurado 25 %

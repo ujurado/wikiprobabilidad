@@ -13,4 +13,6 @@ La  Figura 2  muestra  el  histograma  de  la  distribución  del  ingreso  corr
 
 ## Análisis
 
-En este caso se puede apreciar el sesgo negativo en relación al promedio de 46 521 pesos trimestrales dados que
+En este caso se puede apreciar el sesgo negativo en relación al promedio de 46 521 pesos trimestrales de ingreso para una familia según el estudio presentado.
+
+Esto aunado a que se presenta una desviación 
