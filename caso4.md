@@ -1,6 +1,5 @@
-Caso de Estudio
-
-Demanda de empleos según habilidades
+# Caso de Estudio
+# Demanda de empleos según habilidades
 
 La Figura4 reproduce el histograma de una proyección del crecimiento de los puestos de
 trabajo en los Estados Unidos según el nivel de demanda de sus habilidades [1]. Las
