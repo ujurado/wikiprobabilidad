@@ -5,7 +5,9 @@ Distribución de longitudes de home runs
 El conjunto de datos que se muestra a continuación lista la distancia (en pies) de los home
 runs de Mark McGwire [2]:
 
+<img src="https://ujurado.github.io/wikiprobabilidad/assets/images/figura1.png" alt="home1">
 
+<img src="https://ujurado.github.io/wikiprobabilidad/assets/images/figura1.png" alt="home2">
 
 Con posterioridad, se muestra la ejecución del programa datgrp para obtener una
 visualización de los resúmenes gráficos y numéricos de la distribución de la distancia de los
