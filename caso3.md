@@ -17,4 +17,6 @@ de montículo con ligero sesgo a la derecha. ¿Cree Ud. que, a pesar de este ses
 medidas resumen dan una idea clara de la distribución?
 ## Análisis de los casos de  estudio suministrados.
 
+En este apartado se muestra claramente como se obtienen algunos datos para elaborar las graficas, ya sea, desde un solo valor u de diferentes, ya que no necesariamente tienen que ser situaciones diarias o laborales.
+
 ## Estudio de otros casos (con juegos de datos reales):
