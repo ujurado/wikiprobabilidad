@@ -25,7 +25,7 @@ Modalidad; son las diferentes situaciones posibles del carácter, y deben ser al
 
 Además se comentan qué medidas de tendencia central y de dispersión son más adecuadas en cada caso.
 
-Durante la investigación en internet para encontrar otras situaciones reales, en contextos diferentes, que presenten distribuciones del tipo o forma que en los tres casos expuestos. Para estos ejemplos reales, se recabaron series de valores reales en bruto de artículos o bases de datos en internet, no sus tablas de frecuencia, y se suministran en el trabajo. A partir de estos datos se presentan los resúmenes gráficos (histogramas), tabulares (tabla de frecuencias), y numéricos más adecuados para el contexto especifico. Además, se calcula el porcentaje de valores dentro de los intervalos que marca la regla empírica y de Chebyshev observando su cumplimiento.
+Durante la investigación en internet para encontrar otras situaciones reales, en contextos diferentes, que presenten distribuciones del tipo o forma que en los tres casos expuestos. Para estos ejemplos reales, se recabaron series de valores reales en bruto de artículos o bases de datos en internet, no sus tablas de frecuencia, y se suministran en el trabajo. 
 
 ***A continuación se listan algunos casos de estudio en los que se puede apreciar el uso en diferentes situaciones las medidas de tendencia central y dispersión mencionadas anteriormente:***
 
@@ -63,5 +63,5 @@ Así pues, debemos de estar conscientes que, para la graficacion de los resultad
 
 * Ana Belen ? %
 * Daniel Esteves 25 %
-* Jacqueline  Bravo %
+* Jacqueline  Bravo Pacheco 25%
 * Uriel Jurado 25 %
